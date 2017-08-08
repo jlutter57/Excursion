@@ -1,9 +1,9 @@
 /* This is the CSS code for the Excursion project. */
 h1 {font-family: Helvetica;
-  font-size: 100px;
+  font-size: 32px;
   font-weight: bold;
-  text-align: center;
-  color: khaki;
+  text-align: left;
+  color: red;
   background-image: url('../images/pattern.jpeg');
 }
 /* This is the CSS code for the "Brushes" section. */
