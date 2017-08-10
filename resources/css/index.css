@@ -1,34 +1,28 @@
 /* This is the CSS code for the Excursion project. */
-h1 {font-family: Helvetica;
-  font-size: 32px;
-  font-weight: bold;
-  text-align: left;
-  color: red;
-  background-image: url('../images/pattern.jpeg');
+* {
+  background-color: black;
+  text-align: center;
 }
-/* This is the CSS code for the "Brushes" section. */
-#brushes {font-family: Helvetica;
-    font-size: 32px;
-    font-weight: bold;
-    color: purple;
-    background-color: mediumspringgreen;
+h1 {
+  font-family: Verdana;
+  font-size: 50px;
+  font-weight: normal;
+  text-align: centered;
+  color: White;
 }
-/* This is the CSS code for the "Frames" section. */
-#frames {font-family: Helvetica;
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
-    background-color: lightcoral;
-}
-/* This is the CSS code for the "Paint" section. */
-#paint {font-family: Helvetica;
-    font-size: 32px;
-    font-weight: bold;
-    color: white;
-    background-color: skyblue;
-}
-/* This is the CSS code to "highlight" the prices. */
-.price {font-family: Helvetica;
-    font-weight: bold;
-    color: blue;}
-}
+h2 {
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+ }
+ p {
+   font-family: verdana;
+   font-size: 21px;
+   color: gray;
+ }
+ .footer {
+   font-size: 21px;
+   text-align: right;
+   color: gray;
+ }
